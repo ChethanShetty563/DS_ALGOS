@@ -1,0 +1,6 @@
+*.exe
+.vscode
+*.xml
+.*iml
+/shelf/
+/workspace.xml
